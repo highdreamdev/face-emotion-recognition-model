@@ -61,6 +61,7 @@ Or by using a live camera
 ```sh
   python live_cam_predict.py
 ```
+![](face_emotional_recognition.mp4)
 Here are some test examples:
 <p align="center">
   <video width="220" height="230" controls>
