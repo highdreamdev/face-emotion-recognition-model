@@ -65,7 +65,7 @@ Here are some test examples:
 <p align="center">
   <video width="220" height="230">
     <source src="face_emotional_recognition.mp4">
-    </video>
+  </video>
   <img src=https://user-images.githubusercontent.com/40613682/96073810-7c241980-0ea7-11eb-848d-29b56ecf4fc1.png alt="drawing" width="220" height="230"/>
   <img src=https://user-images.githubusercontent.com/40613682/96074052-fc4a7f00-0ea7-11eb-8fca-4baf225ed327.png alt="drawing" width="220" height="230"/> 
   <img src=https://user-images.githubusercontent.com/40613682/96074205-67945100-0ea8-11eb-9e43-5b9124c94275.png alt="drawing" width="220" height="230"/>
